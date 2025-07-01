@@ -1,7 +1,6 @@
 # Anydesk
 License renew or session out issue
 
-
 To reset your AnyDesk ID, you'll need to close AnyDesk, navigate to the AnyDesk configuration folder, and then rename or delete the service.conf file. This forces AnyDesk to generate a new ID the next time it's opened. 
 
 Here's a step-by-step guide:
